@@ -1,0 +1,234 @@
+================================================================================
+Cross-Context Mechanism Analysis Report
+================================================================================
+
+Overall Statistics:
+- Identified Clusters: 31
+- Total Mechanisms: 85
+- Segments Covered: 6/10
+
+Top 10 Clusters:
+
+Cluster #1 (cluster_21):
+- Generalized Mechanism: reduced campus access → more dependency on home conditions for learning
+- Representative Mechanism: reduced campus access → more dependency on home conditions for learning
+- Cluster Size: 7 mechanisms
+- Segment Distribution:
+  Segment 007: 3 mechanisms
+  Segment 002: 1 mechanisms
+  Segment 003: 1 mechanisms
+  Segment 005: 1 mechanisms
+  Segment 010: 1 mechanisms
+- Typical Contexts:
+  - living in small town and remote study (1 occurrences)
+  - grade comparison pre/post switch (1 occurrences)
+  - anticipation of returning to in-person instruction (1 occurrences)
+- Frequent Antecedents:
+  - local resources and hybrid classes (1 occurrences)
+  - transition to online mode and home distractions (1 occurrences)
+  - negative experiences with online modality (1 occurrences)
+- Top Mechanism Examples:
+  1. reduced campus access → more dependency on home conditions for learning
+  2. loss of campus routine and increased distractions → decreased academic performance
+  3. expectation of restored campus engagement and improved learning → motivation for in-person return
+------------------------------------------------------------
+
+Cluster #2 (cluster_16):
+- Generalized Mechanism: timely one → on
+- Representative Mechanism: timely one-on-one → improved understanding; delayed email → self-learning burden
+- Cluster Size: 6 mechanisms
+- Segment Distribution:
+  Segment 002: 2 mechanisms
+  Segment 007: 2 mechanisms
+  Segment 001: 1 mechanisms
+  Segment 003: 1 mechanisms
+- Typical Contexts:
+  - individual doubt-clearing attempts (1 occurrences)
+  - small-class interactive format (1 occurrences)
+  - small-class live Q&A support (1 occurrences)
+- Frequent Antecedents:
+  - contacting professor via DM/email (1 occurrences)
+  - active professor presence (1 occurrences)
+  - responsive TA/professor availability (1 occurrences)
+- Top Mechanism Examples:
+  1. timely one-on-one → improved understanding; delayed email → self-learning burden
+  2. immediate engagement → clearer understanding → positive learning outcome and higher grade
+  3. immediate explanation → clearer understanding → positive affect and grade improvement
+------------------------------------------------------------
+
+Cluster #3 (cluster_7):
+- Generalized Mechanism: reduced sleep → fatigue
+- Representative Mechanism: reduced sleep → fatigue → lower concentration
+- Cluster Size: 5 mechanisms
+- Segment Distribution:
+  Segment 003: 2 mechanisms
+  Segment 001: 1 mechanisms
+  Segment 002: 1 mechanisms
+  Segment 010: 1 mechanisms
+- Typical Contexts:
+  - home environment with no commute (1 occurrences)
+  - changed daily rhythm at home (1 occurrences)
+  - study time comparison (1 occurrences)
+- Frequent Antecedents:
+  - late-night gaming/video watching (1 occurrences)
+  - lack of routine and late-night work or scrolling (1 occurrences)
+  - loss of campus study routines (1 occurrences)
+- Top Mechanism Examples:
+  1. reduced sleep → fatigue → lower concentration
+  2. reduced sleep → fatigue and worse attention
+  3. reduced daytime focus → reliance on late-night study → sleep disruption
+------------------------------------------------------------
+
+Cluster #4 (cluster_1):
+- Generalized Mechanism: progression in program → stable major focus
+- Representative Mechanism: progression in program → stable major focus
+- Cluster Size: 4 mechanisms
+- Segment Distribution:
+  Segment 010: 2 mechanisms
+  Segment 001: 1 mechanisms
+  Segment 007: 1 mechanisms
+- Typical Contexts:
+  - personal introduction (1 occurrences)
+  - academic course load (1 occurrences)
+  - completion of a two-year vocational diploma (1 occurrences)
+- Frequent Antecedents:
+  - transition from second to third year (1 occurrences)
+  - five subjects per semester (1 occurrences)
+  - enrolment in structured diploma program (1 occurrences)
+- Top Mechanism Examples:
+  1. progression in program → stable major focus
+  2. standard course load → academic challenge → engagement with relevant material
+  3. program completion → transitional planning toward further study and reflection on prior learning conditions
+------------------------------------------------------------
+
+Cluster #5 (cluster_23):
+- Generalized Mechanism: frequent interruptions → inability to maintain study flow
+- Representative Mechanism: frequent interruptions → inability to maintain study flow → reduced concentration
+- Cluster Size: 4 mechanisms
+- Segment Distribution:
+  Segment 002: 2 mechanisms
+  Segment 005: 1 mechanisms
+  Segment 007: 1 mechanisms
+- Typical Contexts:
+  - living room/dining room multi-use space (1 occurrences)
+  - dense online timetable (1 occurrences)
+  - intensive exam-period study under stress (1 occurrences)
+- Frequent Antecedents:
+  - household activities and noise (1 occurrences)
+  - back-to-back synchronous sessions (1 occurrences)
+  - higher stakes and need to compensate for missed content (1 occurrences)
+- Top Mechanism Examples:
+  1. frequent interruptions → inability to maintain study flow → reduced concentration
+  2. lack of physical breaks → fatigue and physical discomfort → reduced learning efficiency
+  3. long hours + inefficiency → exhaustion and reduced effective learning
+------------------------------------------------------------
+
+Cluster #6 (cluster_3):
+- Generalized Mechanism: shared space → distraction
+- Representative Mechanism: shared space → distraction + weaker signal → hindered focus
+- Cluster Size: 3 mechanisms
+- Segment Distribution:
+  Segment 001: 1 mechanisms
+  Segment 005: 1 mechanisms
+  Segment 007: 1 mechanisms
+- Typical Contexts:
+  - bedroom and basement study setups (1 occurrences)
+  - shared bedroom in crowded household (1 occurrences)
+  - remote learning environment (1 occurrences)
+- Frequent Antecedents:
+  - shared room and weak Wi-Fi (1 occurrences)
+  - co-occupancy with sibling (1 occurrences)
+  - own bedroom availability (1 occurrences)
+- Top Mechanism Examples:
+  1. shared space → distraction + weaker signal → hindered focus
+  2. limited private space + background noise → reliance on headphones and fragmented attention
+  3. private space → controlled study environment → improved focus and academic routine
+------------------------------------------------------------
+
+Cluster #7 (cluster_5):
+- Generalized Mechanism: added monitor → improved multitasking and learning
+- Representative Mechanism: added monitor → improved multitasking and learning
+- Cluster Size: 3 mechanisms
+- Segment Distribution:
+  Segment 007: 2 mechanisms
+  Segment 001: 1 mechanisms
+- Typical Contexts:
+  - using laptop with extra monitor (1 occurrences)
+  - study environment distraction (1 occurrences)
+  - family monitoring of studies (1 occurrences)
+- Frequent Antecedents:
+  - need to handle Zoom + coding (1 occurrences)
+  - social media usage during lectures (1 occurrences)
+  - parents' trust in student's responsibility (1 occurrences)
+- Top Mechanism Examples:
+  1. added monitor → improved multitasking and learning
+  2. multitasking → reduced lecture comprehension → need for rewatching
+  3. lack of monitoring → increased autonomy → positive study environment
+------------------------------------------------------------
+
+Cluster #8 (cluster_15):
+- Generalized Mechanism: quick TA reply → relief; unanswered chat
+- Representative Mechanism: quick TA reply → relief; unanswered chat → frustration
+- Cluster Size: 3 mechanisms
+- Segment Distribution:
+  Segment 001: 1 mechanisms
+  Segment 002: 1 mechanisms
+  Segment 003: 1 mechanisms
+- Typical Contexts:
+  - course discussion systems (1 occurrences)
+  - large online classes with limited staff response (1 occurrences)
+  - asynchronous forum support (1 occurrences)
+- Frequent Antecedents:
+  - late-night forum post and chat overload (1 occurrences)
+  - high student-to-teacher ratio and asynchronous replies (1 occurrences)
+  - delayed and terse TA response (1 occurrences)
+- Top Mechanism Examples:
+  1. quick TA reply → relief; unanswered chat → frustration
+  2. delayed clarification → guesswork on assignment → lost marks and frustration
+  3. late/insufficient help → missed deadline or poor solution → frustration
+------------------------------------------------------------
+
+Cluster #9 (cluster_20):
+- Generalized Mechanism: program change → evolving academic identity and engagement
+- Representative Mechanism: program change → evolving academic identity and engagement
+- Cluster Size: 3 mechanisms
+- Segment Distribution:
+  Segment 002: 1 mechanisms
+  Segment 007: 1 mechanisms
+  Segment 010: 1 mechanisms
+- Typical Contexts:
+  - student background and program trajectory (1 occurrences)
+  - transition to second year (1 occurrences)
+  - transition expectation to in-person study (1 occurrences)
+- Frequent Antecedents:
+  - program switch in early years (1 occurrences)
+  - recent birthday (1 occurrences)
+  - desire for restored campus engagement (1 occurrences)
+- Top Mechanism Examples:
+  1. program change → evolving academic identity and engagement
+  2. age milestone → self-perception shift → uncertainty about academic identity
+  3. return to campus resources and social opportunities → anticipated restoration of student identity and improved learning
+------------------------------------------------------------
+
+Cluster #10 (cluster_43):
+- Generalized Mechanism: technical issues disrupt collaboration → lower effectiveness of online group study
+- Representative Mechanism: technical issues disrupt collaboration → lower effectiveness of online group study
+- Cluster Size: 3 mechanisms
+- Segment Distribution:
+  Segment 003: 1 mechanisms
+  Segment 005: 1 mechanisms
+  Segment 010: 1 mechanisms
+- Typical Contexts:
+  - shift of group study from in-person to online (1 occurrences)
+  - course satisfaction rating (1 occurrences)
+  - course satisfaction evaluation (1 occurrences)
+- Frequent Antecedents:
+  - technical lags and unstable connections (1 occurrences)
+  - combined tech issues, poor interaction modalities, and social isolation (1 occurrences)
+  - technology barriers and impersonal feedback (1 occurrences)
+- Top Mechanism Examples:
+  1. technical issues disrupt collaboration → lower effectiveness of online group study
+  2. technical + pedagogical deficits → low satisfaction and diminished sense of academic community
+  3. combination of tech failures and impersonal support → low course satisfaction
+------------------------------------------------------------
+

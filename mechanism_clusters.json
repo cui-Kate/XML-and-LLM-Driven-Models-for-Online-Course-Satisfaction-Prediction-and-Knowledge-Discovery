@@ -1,0 +1,1405 @@
+[
+  {
+    "cluster_id": "cluster_21",
+    "generalized_mechanism": "reduced campus access → more dependency on home conditions for learning",
+    "representative_mechanism": "reduced campus access → more dependency on home conditions for learning",
+    "mechanism_count": 7,
+    "segment_distribution": [
+      [
+        "007",
+        3
+      ],
+      [
+        "002",
+        1
+      ],
+      [
+        "003",
+        1
+      ],
+      [
+        "005",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "living in small town and remote study",
+        1
+      ],
+      [
+        "grade comparison pre/post switch",
+        1
+      ],
+      [
+        "anticipation of returning to in-person instruction",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "local resources and hybrid classes",
+        1
+      ],
+      [
+        "transition to online mode and home distractions",
+        1
+      ],
+      [
+        "negative experiences with online modality",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "reduced campus access → more dependency on home conditions for learning",
+      "loss of campus routine and increased distractions → decreased academic performance",
+      "expectation of restored campus engagement and improved learning → motivation for in-person return",
+      "positive remote learning experience → preference for home study → avoidance of early commutes",
+      "stable household → sufficient resources for academic devices → baseline online learning capability",
+      "adequate resources → effective learning strategies → moderate satisfaction despite preference for campus",
+      "reduced access and delayed feedback → lower grades and specific course failure relative to baseline"
+    ]
+  },
+  {
+    "cluster_id": "cluster_16",
+    "generalized_mechanism": "timely one → on",
+    "representative_mechanism": "timely one-on-one → improved understanding; delayed email → self-learning burden",
+    "mechanism_count": 6,
+    "segment_distribution": [
+      [
+        "002",
+        2
+      ],
+      [
+        "007",
+        2
+      ],
+      [
+        "001",
+        1
+      ],
+      [
+        "003",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "individual doubt-clearing attempts",
+        1
+      ],
+      [
+        "small-class interactive format",
+        1
+      ],
+      [
+        "small-class live Q&A support",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "contacting professor via DM/email",
+        1
+      ],
+      [
+        "active professor presence",
+        1
+      ],
+      [
+        "responsive TA/professor availability",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "timely one-on-one → improved understanding; delayed email → self-learning burden",
+      "immediate engagement → clearer understanding → positive learning outcome and higher grade",
+      "immediate explanation → clearer understanding → positive affect and grade improvement",
+      "immediate personalized explanation → rapid conceptual grasp → positive learning outcome",
+      "timely clarification → improved understanding → positive learning experience; delayed response → frustration → negative learning experience",
+      "timely clarification → immediate problem resolution → improved understanding → higher performance"
+    ]
+  },
+  {
+    "cluster_id": "cluster_7",
+    "generalized_mechanism": "reduced sleep → fatigue",
+    "representative_mechanism": "reduced sleep → fatigue → lower concentration",
+    "mechanism_count": 5,
+    "segment_distribution": [
+      [
+        "003",
+        2
+      ],
+      [
+        "001",
+        1
+      ],
+      [
+        "002",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "home environment with no commute",
+        1
+      ],
+      [
+        "changed daily rhythm at home",
+        1
+      ],
+      [
+        "study time comparison",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "late-night gaming/video watching",
+        1
+      ],
+      [
+        "lack of routine and late-night work or scrolling",
+        1
+      ],
+      [
+        "loss of campus study routines",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "reduced sleep → fatigue → lower concentration",
+      "reduced sleep → fatigue and worse attention",
+      "reduced daytime focus → reliance on late-night study → sleep disruption",
+      "reduced restorative sleep → increased anxiety and reduced cognitive function",
+      "consistent sleep routine → preserved rest and coping capacity despite other stresses"
+    ]
+  },
+  {
+    "cluster_id": "cluster_1",
+    "generalized_mechanism": "progression in program → stable major focus",
+    "representative_mechanism": "progression in program → stable major focus",
+    "mechanism_count": 4,
+    "segment_distribution": [
+      [
+        "010",
+        2
+      ],
+      [
+        "001",
+        1
+      ],
+      [
+        "007",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "personal introduction",
+        1
+      ],
+      [
+        "academic course load",
+        1
+      ],
+      [
+        "completion of a two-year vocational diploma",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "transition from second to third year",
+        1
+      ],
+      [
+        "five subjects per semester",
+        1
+      ],
+      [
+        "enrolment in structured diploma program",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "progression in program → stable major focus",
+      "standard course load → academic challenge → engagement with relevant material",
+      "program completion → transitional planning toward further study and reflection on prior learning conditions",
+      "task interruptions → fragmented attention and reduced deep work periods"
+    ]
+  },
+  {
+    "cluster_id": "cluster_23",
+    "generalized_mechanism": "frequent interruptions → inability to maintain study flow",
+    "representative_mechanism": "frequent interruptions → inability to maintain study flow → reduced concentration",
+    "mechanism_count": 4,
+    "segment_distribution": [
+      [
+        "002",
+        2
+      ],
+      [
+        "005",
+        1
+      ],
+      [
+        "007",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "living room/dining room multi-use space",
+        1
+      ],
+      [
+        "dense online timetable",
+        1
+      ],
+      [
+        "intensive exam-period study under stress",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "household activities and noise",
+        1
+      ],
+      [
+        "back-to-back synchronous sessions",
+        1
+      ],
+      [
+        "higher stakes and need to compensate for missed content",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "frequent interruptions → inability to maintain study flow → reduced concentration",
+      "lack of physical breaks → fatigue and physical discomfort → reduced learning efficiency",
+      "long hours + inefficiency → exhaustion and reduced effective learning",
+      "fragmented study schedule → reduced productive time → increased study hours during exams"
+    ]
+  },
+  {
+    "cluster_id": "cluster_3",
+    "generalized_mechanism": "shared space → distraction",
+    "representative_mechanism": "shared space → distraction + weaker signal → hindered focus",
+    "mechanism_count": 3,
+    "segment_distribution": [
+      [
+        "001",
+        1
+      ],
+      [
+        "005",
+        1
+      ],
+      [
+        "007",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "bedroom and basement study setups",
+        1
+      ],
+      [
+        "shared bedroom in crowded household",
+        1
+      ],
+      [
+        "remote learning environment",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "shared room and weak Wi-Fi",
+        1
+      ],
+      [
+        "co-occupancy with sibling",
+        1
+      ],
+      [
+        "own bedroom availability",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "shared space → distraction + weaker signal → hindered focus",
+      "limited private space + background noise → reliance on headphones and fragmented attention",
+      "private space → controlled study environment → improved focus and academic routine"
+    ]
+  },
+  {
+    "cluster_id": "cluster_5",
+    "generalized_mechanism": "added monitor → improved multitasking and learning",
+    "representative_mechanism": "added monitor → improved multitasking and learning",
+    "mechanism_count": 3,
+    "segment_distribution": [
+      [
+        "007",
+        2
+      ],
+      [
+        "001",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "using laptop with extra monitor",
+        1
+      ],
+      [
+        "study environment distraction",
+        1
+      ],
+      [
+        "family monitoring of studies",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "need to handle Zoom + coding",
+        1
+      ],
+      [
+        "social media usage during lectures",
+        1
+      ],
+      [
+        "parents' trust in student's responsibility",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "added monitor → improved multitasking and learning",
+      "multitasking → reduced lecture comprehension → need for rewatching",
+      "lack of monitoring → increased autonomy → positive study environment"
+    ]
+  },
+  {
+    "cluster_id": "cluster_15",
+    "generalized_mechanism": "quick TA reply → relief; unanswered chat",
+    "representative_mechanism": "quick TA reply → relief; unanswered chat → frustration",
+    "mechanism_count": 3,
+    "segment_distribution": [
+      [
+        "001",
+        1
+      ],
+      [
+        "002",
+        1
+      ],
+      [
+        "003",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "course discussion systems",
+        1
+      ],
+      [
+        "large online classes with limited staff response",
+        1
+      ],
+      [
+        "asynchronous forum support",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "late-night forum post and chat overload",
+        1
+      ],
+      [
+        "high student-to-teacher ratio and asynchronous replies",
+        1
+      ],
+      [
+        "delayed and terse TA response",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "quick TA reply → relief; unanswered chat → frustration",
+      "delayed clarification → guesswork on assignment → lost marks and frustration",
+      "late/insufficient help → missed deadline or poor solution → frustration"
+    ]
+  },
+  {
+    "cluster_id": "cluster_20",
+    "generalized_mechanism": "program change → evolving academic identity and engagement",
+    "representative_mechanism": "program change → evolving academic identity and engagement",
+    "mechanism_count": 3,
+    "segment_distribution": [
+      [
+        "002",
+        1
+      ],
+      [
+        "007",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "student background and program trajectory",
+        1
+      ],
+      [
+        "transition to second year",
+        1
+      ],
+      [
+        "transition expectation to in-person study",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "program switch in early years",
+        1
+      ],
+      [
+        "recent birthday",
+        1
+      ],
+      [
+        "desire for restored campus engagement",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "program change → evolving academic identity and engagement",
+      "age milestone → self-perception shift → uncertainty about academic identity",
+      "return to campus resources and social opportunities → anticipated restoration of student identity and improved learning"
+    ]
+  },
+  {
+    "cluster_id": "cluster_43",
+    "generalized_mechanism": "technical issues disrupt collaboration → lower effectiveness of online group study",
+    "representative_mechanism": "technical issues disrupt collaboration → lower effectiveness of online group study",
+    "mechanism_count": 3,
+    "segment_distribution": [
+      [
+        "003",
+        1
+      ],
+      [
+        "005",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "shift of group study from in-person to online",
+        1
+      ],
+      [
+        "course satisfaction rating",
+        1
+      ],
+      [
+        "course satisfaction evaluation",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "technical lags and unstable connections",
+        1
+      ],
+      [
+        "combined tech issues, poor interaction modalities, and social isolation",
+        1
+      ],
+      [
+        "technology barriers and impersonal feedback",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "technical issues disrupt collaboration → lower effectiveness of online group study",
+      "technical + pedagogical deficits → low satisfaction and diminished sense of academic community",
+      "combination of tech failures and impersonal support → low course satisfaction"
+    ]
+  },
+  {
+    "cluster_id": "cluster_49",
+    "generalized_mechanism": "limited connectivity options → unreliable access to synchronous learning",
+    "representative_mechanism": "limited connectivity options → unreliable access to synchronous learning",
+    "mechanism_count": 3,
+    "segment_distribution": [
+      [
+        "005",
+        1
+      ],
+      [
+        "007",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "family home in a large town near countryside",
+        1
+      ],
+      [
+        "home internet setup",
+        1
+      ],
+      [
+        "geographically isolated rural household",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "suboptimal local internet infrastructure",
+        1
+      ],
+      [
+        "50 Mbps plan with minimal household usage",
+        1
+      ],
+      [
+        "distance from neighbors and low local density",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "limited connectivity options → unreliable access to synchronous learning",
+      "reliable connection → minimal disruption during academic activities → positive learning experience",
+      "rural isolation → limited local infrastructure (connectivity/nearby support) → barriers to synchronous participation"
+    ]
+  },
+  {
+    "cluster_id": "cluster_62",
+    "generalized_mechanism": "dependence on timely synchronous engagement and meaningful forum activity → variable learning outcomes depending on access and interaction quality",
+    "representative_mechanism": "dependence on timely synchronous engagement and meaningful forum activity → variable learning outcomes depending on access and interaction quality",
+    "mechanism_count": 3,
+    "segment_distribution": [
+      [
+        "005",
+        2
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "hybrid course design combining synchronous and asynchronous elements",
+        1
+      ],
+      [
+        "contrast between in-person seminar dynamics and online delivery",
+        1
+      ],
+      [
+        "contrast between in-person and online learning modes",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "course structure requiring both live engagement and forum participation",
+        1
+      ],
+      [
+        "loss of embodied seminar interaction",
+        1
+      ],
+      [
+        "loss of conversational and proximity-based learning opportunities",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "dependence on timely synchronous engagement and meaningful forum activity → variable learning outcomes depending on access and interaction quality",
+      "absence of immediate dialogic exchange → reduced conceptual engagement and lower performance for discussion-based learning",
+      "absence of live dialogic engagement → passive learning and lowered performance for dialogic learners"
+    ]
+  },
+  {
+    "cluster_id": "cluster_2",
+    "generalized_mechanism": "mid → size household & moderate finances",
+    "representative_mechanism": "mid-size household & moderate finances → moderate study conditions",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "001",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "living in suburban neighborhood",
+        1
+      ],
+      [
+        "multigenerational rural household",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "family composition and resources",
+        1
+      ],
+      [
+        "co-residence with grandmother and parents",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "mid-size household & moderate finances → moderate study conditions",
+      "shared household duties and presence → occasional interruptions and practical responsibilities affecting study time"
+    ]
+  },
+  {
+    "cluster_id": "cluster_6",
+    "generalized_mechanism": "increased workload or procrastination → longer hours or late",
+    "representative_mechanism": "increased workload or procrastination → longer hours or late-night cramming",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "001",
+        1
+      ],
+      [
+        "005",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "online daily routine",
+        1
+      ],
+      [
+        "shifted workload into late-night hours",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "exam weeks and procrastination",
+        1
+      ],
+      [
+        "daytime fragmentation and need to catch up",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "increased workload or procrastination → longer hours or late-night cramming",
+      "reallocation of work to late night → reduced sleep quantity/quality and daytime tiredness"
+    ]
+  },
+  {
+    "cluster_id": "cluster_8",
+    "generalized_mechanism": "parallel gaming/social → attention split",
+    "representative_mechanism": "parallel gaming/social → attention split → missed lecture content",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "001",
+        1
+      ],
+      [
+        "002",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "lack of structured classroom environment",
+        1
+      ],
+      [
+        "limited hardware and shared bandwidth",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "easy access to games and feeds",
+        1
+      ],
+      [
+        "old devices and shared usage",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "parallel gaming/social → attention split → missed lecture content",
+      "poor devices + peak slowdowns → missed live content → reliance on offline materials"
+    ]
+  },
+  {
+    "cluster_id": "cluster_18",
+    "generalized_mechanism": "benefit of home attendance offset by weak support and coordination → moderate satisfaction",
+    "representative_mechanism": "benefit of home attendance offset by weak support and coordination → moderate satisfaction",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "001",
+        1
+      ],
+      [
+        "003",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "online Data Structures course",
+        1
+      ],
+      [
+        "course satisfaction summary",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "flexibility vs poor interaction vs rushed assignments",
+        1
+      ],
+      [
+        "lack of interactivity and technical issues",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "benefit of home attendance offset by weak support and coordination → moderate satisfaction",
+      "learning occurred but enjoyment and ease reduced → moderate satisfaction"
+    ]
+  },
+  {
+    "cluster_id": "cluster_24",
+    "generalized_mechanism": "scheduled lectures plus home noise → fragmented study sessions",
+    "representative_mechanism": "scheduled lectures plus home noise → fragmented study sessions → lower effective study time",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "002",
+        1
+      ],
+      [
+        "007",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "daily routine in crowded home",
+        1
+      ],
+      [
+        "urban living environment",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "household noise and competing responsibilities",
+        1
+      ],
+      [
+        "central district apartment",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "scheduled lectures plus home noise → fragmented study sessions → lower effective study time",
+      "urban setting → constant noise → requires adaptation for study"
+    ]
+  },
+  {
+    "cluster_id": "cluster_25",
+    "generalized_mechanism": "extended social media use → fragmented attention",
+    "representative_mechanism": "extended social media use → fragmented attention → lower productivity",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "002",
+        1
+      ],
+      [
+        "005",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "home-based coping and distraction",
+        1
+      ],
+      [
+        "high-stress environment with limited downtime",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "mindless scrolling as escape",
+        1
+      ],
+      [
+        "use of social media as coping/escape mechanism",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "extended social media use → fragmented attention → lower productivity",
+      "extended social media use → time displacement from study and shortened attention spans"
+    ]
+  },
+  {
+    "cluster_id": "cluster_26",
+    "generalized_mechanism": "less exercise → reduced energy and mood",
+    "representative_mechanism": "less exercise → reduced energy and mood → potential impact on study capacity",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "002",
+        1
+      ],
+      [
+        "007",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "reduced physical activity during online period",
+        1
+      ],
+      [
+        "lack of sports activities",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "lack of club participation and lockdowns",
+        1
+      ],
+      [
+        "no team sports available",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "less exercise → reduced energy and mood → potential impact on study capacity",
+      "reduced physical activity → feeling sluggish → potential impact on study energy"
+    ]
+  },
+  {
+    "cluster_id": "cluster_27",
+    "generalized_mechanism": "initial group cohesion → dropoff due to external pressures",
+    "representative_mechanism": "initial group cohesion → dropoff due to external pressures → reduced peer support",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "002",
+        1
+      ],
+      [
+        "005",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "attempts at collaborative learning online",
+        1
+      ],
+      [
+        "peer study group meeting online",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "divergent home situations and commitments",
+        1
+      ],
+      [
+        "audio/latency technical problems and coordination friction",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "initial group cohesion → dropoff due to external pressures → reduced peer support",
+      "persistent tech awkwardness → reduced perceived benefit → group discontinuation"
+    ]
+  },
+  {
+    "cluster_id": "cluster_33",
+    "generalized_mechanism": "resource constraints → isolation",
+    "representative_mechanism": "resource constraints + isolation → reduced well-being and satisfaction",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "002",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "overall reflection on online experience",
+        1
+      ],
+      [
+        "systemic observation post-remote learning",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "lack of resources and support",
+        1
+      ],
+      [
+        "differential access to devices and connectivity",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "resource constraints + isolation → reduced well-being and satisfaction",
+      "resource inequality → unequal learning opportunities and outcomes"
+    ]
+  },
+  {
+    "cluster_id": "cluster_39",
+    "generalized_mechanism": "mid → lecture freezes",
+    "representative_mechanism": "mid-lecture freezes → missed live explanation → need for follow-up or self-study",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "003",
+        1
+      ],
+      [
+        "005",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "town-level broadband with evening congestion",
+        1
+      ],
+      [
+        "synchronous graded presentation",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "peak-hour congestion",
+        1
+      ],
+      [
+        "abrupt connection loss mid-presentation",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "mid-lecture freezes → missed live explanation → need for follow-up or self-study",
+      "failed live contribution → missed opportunity to present and emotional distress impacting confidence"
+    ]
+  },
+  {
+    "cluster_id": "cluster_40",
+    "generalized_mechanism": "lost time → missed or poorly performed assessments",
+    "representative_mechanism": "lost time → missed or poorly performed assessments → stress",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "003",
+        1
+      ],
+      [
+        "005",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "distraction from devices",
+        1
+      ],
+      [
+        "live seminar requiring sustained device stability",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "mindless scrolling before assessments",
+        1
+      ],
+      [
+        "laptop freeze requiring restart",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "lost time → missed or poorly performed assessments → stress",
+      "temporary device failure → missed discussion segment → loss of continuity and comprehension"
+    ]
+  },
+  {
+    "cluster_id": "cluster_41",
+    "generalized_mechanism": "light gaming as occasional break → limited impact on study",
+    "representative_mechanism": "light gaming as occasional break → limited impact on study",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "003",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "leisure choices",
+        1
+      ],
+      [
+        "minimal recreational screen time",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "limited time and preferences",
+        1
+      ],
+      [
+        "preference and self-regulation",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "light gaming as occasional break → limited impact on study",
+      "limited social media/gaming → lower likelihood of distraction from study but used as brief break"
+    ]
+  },
+  {
+    "cluster_id": "cluster_44",
+    "generalized_mechanism": "inability to afford upgrades or extra data → constrained access and persistent technical issues",
+    "representative_mechanism": "inability to afford upgrades or extra data → constrained access and persistent technical issues",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "003",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "financial constraints affecting study resources",
+        1
+      ],
+      [
+        "tutorials requiring participation",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "limited household income",
+        1
+      ],
+      [
+        "device and connection limits",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "inability to afford upgrades or extra data → constrained access and persistent technical issues",
+      "inability to enable mic or speak → passive attendance and reduced interactive learning gains"
+    ]
+  },
+  {
+    "cluster_id": "cluster_46",
+    "generalized_mechanism": "reduced external cues and engagement → lower motivation and performance online",
+    "representative_mechanism": "reduced external cues and engagement → lower motivation and performance online",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "003",
+        1
+      ],
+      [
+        "005",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "overall comparison of modalities",
+        1
+      ],
+      [
+        "academic outcomes during online semesters",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "loss of structure and spontaneous peer interaction",
+        1
+      ],
+      [
+        "technology and pedagogy-related barriers (esp. for software learning)",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "reduced external cues and engagement → lower motivation and performance online",
+      "reduced effective support for practical skills → grade decline, particularly in lab/software-based modules"
+    ]
+  },
+  {
+    "cluster_id": "cluster_61",
+    "generalized_mechanism": "classroom engagement and seminar discussion → maintained consistent B",
+    "representative_mechanism": "classroom engagement and seminar discussion → maintained consistent B-range marks",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "005",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "pre-remote academic baseline",
+        1
+      ],
+      [
+        "pre-pandemic academic performance",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "in-person learning conditions",
+        1
+      ],
+      [
+        "regular in-person schooling conditions",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "classroom engagement and seminar discussion → maintained consistent B-range marks",
+      "stable classroom engagement → consistent above-average marks"
+    ]
+  },
+  {
+    "cluster_id": "cluster_72",
+    "generalized_mechanism": "collaborative problem solving → increased engagement",
+    "representative_mechanism": "collaborative problem solving → increased engagement → sense of accomplishment",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "007",
+        1
+      ],
+      [
+        "010",
+        1
+      ]
+    ],
+    "top_contexts": [
+      [
+        "group study environment",
+        1
+      ],
+      [
+        "peer coordination under varied constraints",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "structured weekly group projects",
+        1
+      ],
+      [
+        "unstable personal connectivity and asynchronous schedules",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "collaborative problem solving → increased engagement → sense of accomplishment",
+      "unreliable participation → reduced group reliance on student and feelings of unfairness"
+    ]
+  },
+  {
+    "cluster_id": "cluster_73",
+    "generalized_mechanism": "online learning challenges → reduced performance",
+    "representative_mechanism": "online learning challenges → reduced performance → adaptation leading to improvement",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "007",
+        2
+      ]
+    ],
+    "top_contexts": [
+      [
+        "academic performance comparison",
+        1
+      ],
+      [
+        "course comparison",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "shift from on-campus to online learning",
+        1
+      ],
+      [
+        "active course support vs passive course delivery",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "online learning challenges → reduced performance → adaptation leading to improvement",
+      "interactive course design → accessible support → higher performance"
+    ]
+  },
+  {
+    "cluster_id": "cluster_79",
+    "generalized_mechanism": "app crashes under multitasking → lost notes/interruptions",
+    "representative_mechanism": "app crashes under multitasking → lost notes/interruptions → stress and inefficiency",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "010",
+        2
+      ]
+    ],
+    "top_contexts": [
+      [
+        "multitasking demands of online learning",
+        1
+      ],
+      [
+        "timed online assessment on unstable device",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "limited tablet RAM/processing",
+        1
+      ],
+      [
+        "device crash mid-exam",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "app crashes under multitasking → lost notes/interruptions → stress and inefficiency",
+      "lost responses due to crash → acute stress and potential grade impact"
+    ]
+  },
+  {
+    "cluster_id": "cluster_89",
+    "generalized_mechanism": "delayed feedback loops → unresolved doubts and reduced formative learning",
+    "representative_mechanism": "delayed feedback loops → unresolved doubts and reduced formative learning",
+    "mechanism_count": 2,
+    "segment_distribution": [
+      [
+        "010",
+        2
+      ]
+    ],
+    "top_contexts": [
+      [
+        "asynchronous discussion forum as help channel",
+        1
+      ],
+      [
+        "graded forum requiring formative feedback",
+        1
+      ]
+    ],
+    "top_antecedents": [
+      [
+        "low student engagement and slow staff responses",
+        1
+      ],
+      [
+        "delayed and short TA feedback",
+        1
+      ]
+    ],
+    "top_mechanisms": [
+      "delayed feedback loops → unresolved doubts and reduced formative learning",
+      "insufficient formative feedback → persistent uncertainty and reduced learning opportunities"
+    ]
+  }
+]
