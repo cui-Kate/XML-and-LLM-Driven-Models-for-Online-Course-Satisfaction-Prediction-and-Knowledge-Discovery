@@ -1,12 +1,14 @@
 # 1. Dataset
 
-File: data.csv
+**File: data.csv**
 
 Description: Original dataset used for quantitative modeling.
 
 Source: Publicly available at Kaggle – Online Education System Review
 
+**File: Interview transcript.docx**
 
+Description: Original Interview transcript(Data has been anonymized and does not contain sensitive information or personal privacy.)
 
 
 # 2. Code Files
